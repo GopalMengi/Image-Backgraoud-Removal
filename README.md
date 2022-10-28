@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">BigMart Sales Prediction</h1>
+<h1 align="center">Image Background Removal</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/muskaan712/JobRecommender?color=56BEB8">
